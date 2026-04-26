@@ -1,37 +1,57 @@
-# NIKUNJ-BAJAJ
- Nikunj Bajaj
+# 👋 Hi, I'm Nikunj Bajaj
 
-B.Tech AIML Student | Aspiring AI/ML Engineer
+🎓 **B.Tech Student (AIML)** at Anurag University, Hyderabad
+💡 Aspiring **AI/ML Engineer** passionate about learning and building in tech
 
-🧠 About Me
+---
 
-I am a first-year B.Tech student specializing in Artificial Intelligence and Machine Learning at Anurag University. I have a strong foundation in C programming, data structures, and mathematics for AI, including basic concepts of probability and statistics.
+## 🚀 About Me
 
-I am passionate about building a career in AI/ML and currently focusing on strengthening my programming skills and core concepts. I am actively learning and preparing to work on real-world projects in machine learning and data science.
+* 🌱 Currently learning **Artificial Intelligence & Machine Learning**
+* 💻 Strong foundation in **C Programming**
+* 📊 Interested in **Data Structures & Problem Solving**
+* 📚 Exploring **Mathematics for AI**
 
-🛠️ Skills
-Programming: C (Basics)
-Core Concepts: Data Structures (Stack, Queue, Linked List)
-Mathematics for AI: Basic Linear Algebra, Probability, Statistics
-AI/ML: Fundamental concepts of Machine Learning
-Tools & Platforms: (Add: VS Code / Git if you use them)
-🚀 Projects
+---
 
-Currently building my first set of AI/ML and programming projects.
+## 🛠️ Skills
 
-👉 Planned projects:
+* **Programming:** C (Basics)
+* **Core Concepts:** Data Structures (Stack, Queue)
+* **AI/ML:** Fundamentals
+* **Mathematics:** Linear Algebra, Basic Probability (Learning Phase)
 
-Stack and Queue implementations in C
-Matrix operations program
-Beginner Machine Learning projects (coming soon)
-🎯 Goal
+---
 
-To become a skilled AI/ML Engineer by building strong fundamentals in programming, mathematics, and machine learning, and applying them through real-world projects.
+## 📈 Current Focus
 
-📫 Contact
-EMAIL:nikunjbajaj15@gmail.com
-GITHUB:https://github.com/nikunjbajaj15
+* Improving problem-solving skills
+* Strengthening DSA concepts
+* Starting beginner AI/ML projects
 
-GitHub:
-LinkedIn:
-Email:
+---
+
+## 📂 Projects
+
+🚧 *Currently, I am a first-year student and working on building my first projects.*
+Stay tuned for upcoming projects!
+
+---
+
+## 🧠 Learning Journey
+
+* ✔️ Implemented **Stack & Queue in C**
+* 🔄 Learning more about algorithms and AI concepts
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: **[nikunjbajaj15@gmail.com](mailto:nikunjbajaj15@gmail.com)**
+
+---
+
+
+---
+
+⭐ *Feel free to check out my repositories and connect with me!*
